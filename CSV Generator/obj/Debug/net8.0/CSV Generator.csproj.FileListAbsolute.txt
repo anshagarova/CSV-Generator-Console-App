@@ -1,0 +1,14 @@
+/Users/annashagarova/CSV Generator Console App/CSV Generator/bin/Debug/net8.0/CSV Generator
+/Users/annashagarova/CSV Generator Console App/CSV Generator/bin/Debug/net8.0/CSV Generator.deps.json
+/Users/annashagarova/CSV Generator Console App/CSV Generator/bin/Debug/net8.0/CSV Generator.runtimeconfig.json
+/Users/annashagarova/CSV Generator Console App/CSV Generator/bin/Debug/net8.0/CSV Generator.dll
+/Users/annashagarova/CSV Generator Console App/CSV Generator/bin/Debug/net8.0/CSV Generator.pdb
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.AssemblyInfoInputs.cache
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.AssemblyInfo.cs
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.csproj.CoreCompileInputs.cache
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.dll
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/refint/CSV Generator.dll
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.pdb
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/CSV Generator.genruntimeconfig.cache
+/Users/annashagarova/CSV Generator Console App/CSV Generator/obj/Debug/net8.0/ref/CSV Generator.dll
